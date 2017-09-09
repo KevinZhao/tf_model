@@ -1,0 +1,1 @@
+cp -r tensorflow_serving_api-1.3.0/tensorflow_serving /usr/local/lib/python3.5/dist-packages/
